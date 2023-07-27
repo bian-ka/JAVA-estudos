@@ -1,0 +1,3 @@
+rootProject.name = 'bytebank-encapsulamento'
+include 'bytebank-herdado'
+
